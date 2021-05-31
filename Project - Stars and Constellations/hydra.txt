@@ -1,0 +1,20 @@
+Hydra
+Hya Zeta,Hya Eta
+Hya Eta,Hya Sigma
+Hya Sigma,Hya Delta
+Hya Delta,Hya Epsilon
+Hya Epsilon,Hya Zeta
+Hya Theta,Hya Zeta
+Hya Iota,Hya Theta
+Alphard,Hya Iota
+Hya Upsil1,Alphard
+Hya Upsil2,Hya Upsil1
+Hya Lambda,Hya Upsil2
+Hya Mu,Hya Lambda
+Hya Nu,Hya Mu
+Alphard,Hya Nu
+Hya Beta,Alphard
+Hya Xi,Hya Beta
+Hya Beta,Hya Xi
+Hya Gamma,Hya Beta
+Hya Pi,Hya Gamma

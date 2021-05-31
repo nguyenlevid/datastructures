@@ -1,0 +1,16 @@
+Cygnet
+Cyg Chi,Albireo
+Cyg Eta,Cyg Chi
+Sadr,Cyg Eta
+Deneb,Sadr
+Cyg Delta,Sadr
+Sadr,Cyg Epsilon
+Cyg Delta,Cyg Kappa
+Cyg Kappa,Cyg Iota
+Cyg Iota,Deneb
+Cyg Epsilon,Cyg Zeta
+Cyg Zeta,Cyg Nu
+Cyg Nu,Deneb
+Deneb,Cyg Xi
+Cyg Nu,Cyg Sigma
+Cyg Sigma,Cyg Tau

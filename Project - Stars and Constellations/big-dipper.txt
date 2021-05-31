@@ -1,0 +1,8 @@
+Big Dipper
+Alkaid,Mizar
+Mizar,Alioth
+Alioth,Megrez
+Megrez,Phecda
+Phecda,Merak
+Merak,Dubhe
+Megrez,Dubhe

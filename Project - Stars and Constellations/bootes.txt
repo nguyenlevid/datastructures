@@ -1,0 +1,19 @@
+Bootes
+Arcturus,Boo Pi
+Boo Epsilon,Arcturus
+Boo Epsilon,Boo Pi
+Muphrid,Arcturus
+Muphrid,Boo Upsilon
+Boo Upsilon,Boo Tau
+Nekkar,Boo Delta
+Boo Delta,Boo Mu
+Boo Delta,Boo Epsilon
+Nekkar,Boo Mu
+Seginus,Nekkar
+Boo Epsilon,Boo Sigma
+Boo Sigma,Boo Rho
+Boo Rho,Seginus
+Boo Theta,Boo Kappa
+Boo Theta,Boo Lambda
+Boo Kappa,Boo Lambda
+Boo Lambda,Seginus

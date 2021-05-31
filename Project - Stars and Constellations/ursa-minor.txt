@@ -1,0 +1,8 @@
+Ursa Minor
+Polaris,Umi Delta
+Umi Delta,Umi Epsilon
+Umi Epsilon,Umi Zeta
+Umi Zeta,Kochab
+Kochab,Pherkad
+Pherkad,Umi Eta
+Umi Eta,Umi Zeta

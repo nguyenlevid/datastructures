@@ -1,0 +1,17 @@
+Ursa Major
+Alkaid,Mizar
+Mizar,Alioth
+Alioth,Megrez
+Megrez,Phecda
+Phecda,Merak
+Merak,Dubhe
+Megrez,Dubhe
+Dubhe,Muscida
+Uma Phi,Uma Upsilon
+Uma Phi,Tania Borealis
+Muscida,Talitha
+Uma Kappa,Tania Australis
+Tania Australis,Alula Borealis
+Uma Psi,Alula Borealis
+Uma Chi,Uma Psi
+Uma Chi,Alkaid

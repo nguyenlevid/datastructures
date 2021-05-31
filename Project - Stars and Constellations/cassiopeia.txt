@@ -1,0 +1,9 @@
+Cassiopeia
+Cas Epsilon,Ruchbah
+Ruchbah,Cas Gamma
+Cas Gamma,Schedar
+Schedar,Caph
+Cas Gamma,Cas Kappa
+Cas Kappa,Cas Iota
+Schedar,Cas Zeta
+Cas Zeta,Cas Theta

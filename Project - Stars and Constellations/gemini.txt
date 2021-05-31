@@ -1,0 +1,16 @@
+Gemini
+Pollux,Gem Upsilon
+Gem Upsilon,Gem Kappa
+Gem Upsilon,Gem Iota
+Gem Upsilon,Wasat
+Wasat,Gem Lambda
+Wasat,Gem Zeta
+Gem Zeta,Alhena
+Gem Lambda,Gem Xi
+Gem Rho,Castor
+Gem Tau,Gem Rho
+Gem Tau,Gem Iota
+Gem Tau,Gem Theta
+Mebsuta,Gem Tau
+Gem Mu,Mebsuta
+Gem Eta,Gem Mu
