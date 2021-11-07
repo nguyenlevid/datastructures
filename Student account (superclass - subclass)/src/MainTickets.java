@@ -47,6 +47,12 @@ public class MainTickets {
 		System.out.println(ticket7);
 		System.out.println("Total number of tickets sold: " + Ticket.getNumTicketsSold());
 		System.out.println();
+		
+		StudentAdvanceTicket  ticket8 = new StudentAdvanceTicket("4D", 12);
+		System.out.println("StudentAdvanceTicket");
+		System.out.println(ticket8);
+		System.out.println("Total number of tickets sold: " + Ticket.getNumTicketsSold());
+		System.out.println();
 	}
 
 }
